@@ -1,7 +1,5 @@
 # Public API Relay Services
 
-A growing reference list of publicly available API relay services. The information below was checked on **2026-09-03** and may change without notice.
-
 ## KKTOKEN (KKtoken AI)
 
 - **Registration:** The public sign-up page asks for a username, password, and password confirmation. It also offers a “Continue with GitHub” option.
